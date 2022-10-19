@@ -4,3 +4,6 @@
 ```
 print hello world
 ```
+- [x] Cook Breakfast
+- [ ] Do Homework
+- [ ] Nap
